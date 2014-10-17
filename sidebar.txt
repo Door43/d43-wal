@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wal:home|Door43 (wal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wal|d43-wal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wal/archive/master.zip|d43-wal.zip]]
+
+**Recent Changes**
+{{changes>ns = wal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wal|Ethnologue data]]
+
